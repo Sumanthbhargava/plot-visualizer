@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # plot-visualizer README
 
 This is the README for your extension "plot-visualizer". After writing up a brief description, we recommend including the following sections.
@@ -69,3 +70,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# plot-visualizer
+Simple nlp based vscode extension to visualize natural language into plots
+>>>>>>> 945d3f10602ad4c79ee429de84e81371abc42cc7
